@@ -1,6 +1,7 @@
 
 # users-registration-erp
-Spring boot project for user registration using with java,springboot,js,html5,bootstrap,mysql etc.
+# This project is developed by using below technology and tools
+Spring boot project for user registration using with java 1.8v,maven tool,springboot 2.7v,js,html5,bootstrap 4.0v,mysql 8.0v etc.
 
 # step 1. users registration page
 ![Screenshot (38)](https://user-images.githubusercontent.com/61741131/185174608-656a9e0a-5815-4836-b64f-4aa17302eda2.png)
@@ -13,7 +14,7 @@ Spring boot project for user registration using with java,springboot,js,html5,bo
 ![Screenshot (43)](https://user-images.githubusercontent.com/61741131/185174706-93d3ec9d-7b38-4a2c-8ea1-af4bcf028c21.png)
 # step 4. users logout page
 ![Screenshot (44)](https://user-images.githubusercontent.com/61741131/185174717-096a09b0-8539-429c-867e-157e255df5ae.png)
-# step 5. users app communicate mysql DB
+# step 5. users app communicate with mysql DB
 ![Screenshot (45)](https://user-images.githubusercontent.com/61741131/185174725-114bf542-d397-4408-887a-b2432a3636cb.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/61741131/185174803-094251dd-02d7-4d75-9e3c-69c2078a5b55.png)
 
